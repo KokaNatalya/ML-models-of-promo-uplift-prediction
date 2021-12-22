@@ -12,5 +12,5 @@
 - matplotlib.pyplot
 - numpy
 - scipy
-- sklearn (svm, model_selection, linear_model, metrics, neighbors, ensemble, tree, )
+- sklearn (svm, model_selection, linear_model, metrics, neighbors, ensemble, tree)
 
